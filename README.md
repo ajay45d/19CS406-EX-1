@@ -18,6 +18,7 @@ PROGRAM :
 
 
 OUTPUT:
+![image](https://github.com/ajay45d/19CS406-EX-1/assets/134574325/a9311575-3c8b-4ebb-87ee-2f10f06a306c)
 
 
 
