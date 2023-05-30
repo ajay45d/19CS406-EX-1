@@ -30,8 +30,8 @@ To implement socket programming date and time display from client to server usin
 ### PROGRAM :
 #### Client:
 ```
-Developed By: G Venkata Pavan Kumar
-Reg No: 212221240013
+Developed By: K Ajay
+Reg No: 212221040008
 ```
 ```
 import socket
